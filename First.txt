@@ -1,7 +1,9 @@
-Hai!
+Hi!
 
 First time learning Git here...
 
 what's next?
 
 ...
+
+Find me something interesting
