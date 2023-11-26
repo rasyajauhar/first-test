@@ -1,2 +1,0 @@
-username = j034
-pass = 2038793fj
